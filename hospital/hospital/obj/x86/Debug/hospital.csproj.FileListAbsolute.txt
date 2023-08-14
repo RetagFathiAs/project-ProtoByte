@@ -1,0 +1,15 @@
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.dashboard.resources
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.Form1.resources
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.Properties.Resources.resources
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.csproj.GenerateResource.Cache
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.exe
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.pdb
+C:\Users\العائلة\Desktop\hospital\hospital\obj\x86\Debug\hospital.csprojResolveAssemblyReference.cache
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\System.Data.SQLite.pdb
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\System.Data.SQLite.xml
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\System.Data.SQLite.EF6.pdb
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\System.Data.SQLite.EF6.xml
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\العائلة\Desktop\hospital\hospital\bin\Debug\System.Data.SQLite.Linq.xml
